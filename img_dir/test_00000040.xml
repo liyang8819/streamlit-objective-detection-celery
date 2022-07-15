@@ -1,0 +1,26 @@
+<annotation>
+    <folder>labels</folder>
+    <filename>test_00000040.jpg</filename>
+    <path>D:\ly\streamlit-objective-detection-celery\yolov5_master\runs\detect\exp18\labels/test_00000040.jpg</path>
+    <source>
+        <database>None</database>
+    </source>
+    <size>
+        <width>540</width>
+        <height>716</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>,mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>86</ymin>
+            <xmax>316</xmax>
+            <ymax>153</ymax>
+        </bndbox>
+    </object>
+</annotation>

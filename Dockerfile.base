@@ -1,0 +1,17 @@
+FROM idas.chinaeast.cloudapp.chinacloudapi.cn/ipredict/python:3.6
+
+LABEL MAINTAINER="Jason Jiao <Jason.Jiao@Honeywell.com>"
+
+WORKDIR /usr/src/app
+
+ADD ./requirements.txt .
+ADD ./whls/cbb_objectdetection-0.1.0-py3-none-any.whl .
+
+RUN pip install --user -i https://mirrors.aliyun.com/pypi/simple --no-cache-dir -r requirements.txt \
+    && pip install --user cbb_automl-0.1.0-py3-none-any.whl \
+    && rm -f cbb_automl-0.1.0-py3-none-any.whl
+
+ENV TZ="Asia/Shanghai"
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+ENV PYTHON_PATH /usr/src/app

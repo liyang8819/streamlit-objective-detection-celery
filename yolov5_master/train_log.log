@@ -1,0 +1,216 @@
+2022-07-04 13:14:53.421 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.90977], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:14:58.406 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.87665], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:15:04.388 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.80825], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:20.421 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.09199], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:20.421 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.09199], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:27.930 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.15022], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:27.930 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.15022], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:35.512 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.99223], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:17:35.512 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.99223], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:46.061 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.67205], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:46.061 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.67205], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:46.061 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.67205], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:52.132 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.77966], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:52.132 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.77966], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:52.132 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.77966], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:58.257 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.60758], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:58.257 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.60758], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:20:58.257 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.60758], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:41.077 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.77307], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:41.077 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.77307], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:41.077 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.77307], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:41.077 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.77307], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:47.067 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.88919], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:47.067 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.88919], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:47.067 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.88919], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:47.067 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.88919], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:53.103 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.73815], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:53.103 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.73815], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:53.103 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.73815], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:29:53.103 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.73815], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:38.441 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.08174], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:38.441 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.08174], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:38.441 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.08174], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:38.441 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.08174], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:38.441 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.08174], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:46.301 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.00069], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:46.301 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.00069], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:46.301 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.00069], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:46.301 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.00069], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:46.301 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.00069], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:53.954 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.18515], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:53.954 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.18515], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:53.954 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.18515], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:53.954 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.18515], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:34:53.954 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.18515], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:38:59.509 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.76869], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:04.794 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.78702], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-04 13:39:11.071 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.67506], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:00:00.574 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([0.40424], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:00:07.552 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.36468], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:00:14.344 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.32219], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:40.684 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.17129], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:40.684 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.17129], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:48.125 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.96582], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:48.125 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.96582], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:55.533 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.98682], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:06:55.533 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.98682], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:06.487 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.72572], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:06.487 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.72572], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:06.487 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.72572], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:12.896 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.76581], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:12.896 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.76581], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:12.896 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.76581], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:18.981 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.53511], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:18.981 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.53511], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:12:18.981 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.53511], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:25:59.059 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.85991], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:25:59.059 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.85991], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:25:59.059 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.85991], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:25:59.059 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.85991], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:05.235 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85648], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:05.235 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85648], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:05.235 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85648], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:05.235 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85648], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:11.260 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.66249], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:11.260 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.66249], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:11.260 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.66249], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 14:26:11.260 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.66249], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:16:58.335 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.07323], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:16:58.335 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.07323], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:16:58.335 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.07323], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:16:58.335 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.07323], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:16:58.335 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([1.07323], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:05.985 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.05716], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:05.985 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.05716], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:05.985 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.05716], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:05.985 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.05716], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:05.985 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([1.05716], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:13.511 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.15662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:13.511 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.15662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:13.511 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.15662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:13.511 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.15662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:17:13.511 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([1.15662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:42.331 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([2.68642], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:48.560 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([2.85829], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 15:22:54.781 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([2.59248], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:16:14.090 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([0.22899], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:16:16.127 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.04550], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:16:18.226 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.23662], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:05.561 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([0.56538], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:05.561 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  tensor([0.56538], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:07.799 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.51267], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:07.799 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  tensor([0.51267], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:10.119 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.53818], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 18:18:10.119 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  tensor([0.53818], device='cuda:0', grad_fn=<MulBackward0>)
+2022-07-05 19:04:28.018 | INFO     | yolov5_master.train:train:475 - epoch:  0    epochs:  3    loss:  0.345
+2022-07-05 19:04:30.937 | INFO     | yolov5_master.train:train:475 - epoch:  1    epochs:  3    loss:  0.045
+2022-07-05 19:04:33.043 | INFO     | yolov5_master.train:train:475 - epoch:  2    epochs:  3    loss:  0.366
+2022-07-07 13:56:41.902 | INFO     | yolov5_master.train:train:481 - epoch:  0    epochs:  3    loss:  0.565
+2022-07-07 13:56:47.447 | INFO     | yolov5_master.train:train:481 - epoch:  1    epochs:  3    loss:  0.511
+2022-07-07 13:56:53.120 | INFO     | yolov5_master.train:train:481 - epoch:  2    epochs:  3    loss:  0.542
+2022-07-07 14:05:28.781 | INFO     | yolov5_master.train:train:481 - epoch:  0    epochs:  3    loss:  0.561
+2022-07-07 14:05:28.781 | INFO     | yolov5_master.train:train:481 - epoch:  0    epochs:  3    loss:  0.561
+2022-07-07 14:05:33.763 | INFO     | yolov5_master.train:train:481 - epoch:  1    epochs:  3    loss:  0.512
+2022-07-07 14:05:33.763 | INFO     | yolov5_master.train:train:481 - epoch:  1    epochs:  3    loss:  0.512
+2022-07-07 14:05:36.695 | INFO     | yolov5_master.train:train:481 - epoch:  2    epochs:  3    loss:  0.544
+2022-07-07 14:05:36.695 | INFO     | yolov5_master.train:train:481 - epoch:  2    epochs:  3    loss:  0.544
+2022-07-07 14:07:44.730 | INFO     | yolov5_master.train:train:485 - epoch:  0    epochs:  3    loss:  0.555
+2022-07-07 14:07:49.041 | INFO     | yolov5_master.train:train:485 - epoch:  1    epochs:  3    loss:  0.519
+2022-07-07 14:07:51.354 | INFO     | yolov5_master.train:train:485 - epoch:  2    epochs:  3    loss:  0.571
+2022-07-08 15:24:14.324 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.935
+2022-07-08 15:24:18.839 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.886
+2022-07-08 15:24:21.119 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.905
+2022-07-08 15:32:55.333 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.346
+2022-07-08 15:32:55.333 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.346
+2022-07-08 15:32:57.391 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.045
+2022-07-08 15:32:57.391 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.045
+2022-07-08 15:32:59.565 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.365
+2022-07-08 15:32:59.565 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.365
+2022-07-08 15:37:58.922 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.932
+2022-07-08 15:37:58.922 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.932
+2022-07-08 15:37:58.922 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.932
+2022-07-08 15:38:01.225 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.881
+2022-07-08 15:38:01.225 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.881
+2022-07-08 15:38:01.225 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.881
+2022-07-08 15:38:03.489 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 15:38:03.489 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 15:38:03.489 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:05:09.018 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.75
+2022-07-08 16:05:09.018 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.75
+2022-07-08 16:05:09.018 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.75
+2022-07-08 16:05:09.018 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.75
+2022-07-08 16:05:11.623 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.652
+2022-07-08 16:05:11.623 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.652
+2022-07-08 16:05:11.623 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.652
+2022-07-08 16:05:11.623 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.652
+2022-07-08 16:05:13.963 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.754
+2022-07-08 16:05:13.963 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.754
+2022-07-08 16:05:13.963 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.754
+2022-07-08 16:05:13.963 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.754
+2022-07-08 16:11:29.477 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.227
+2022-07-08 16:11:29.477 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.227
+2022-07-08 16:11:29.477 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.227
+2022-07-08 16:11:29.477 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.227
+2022-07-08 16:11:29.477 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.227
+2022-07-08 16:11:31.957 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.046
+2022-07-08 16:11:31.957 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.046
+2022-07-08 16:11:31.957 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.046
+2022-07-08 16:11:31.957 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.046
+2022-07-08 16:11:31.957 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.046
+2022-07-08 16:11:34.198 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.236
+2022-07-08 16:11:34.198 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.236
+2022-07-08 16:11:34.198 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.236
+2022-07-08 16:11:34.198 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.236
+2022-07-08 16:11:34.198 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.236
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:53.062 | INFO     | yolov5_master.train:train:488 - epoch:  0    epochs:  3    loss:  0.937
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:55.922 | INFO     | yolov5_master.train:train:488 - epoch:  1    epochs:  3    loss:  0.879
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-08 16:18:58.364 | INFO     | yolov5_master.train:train:488 - epoch:  2    epochs:  3    loss:  0.903
+2022-07-11 12:58:50.478 | INFO     | yolov5_master.train:train:489 - epoch:  0    epochs:  3    loss:  0.557
+2022-07-11 12:58:52.560 | INFO     | yolov5_master.train:train:489 - epoch:  1    epochs:  3    loss:  0.512
+2022-07-11 12:58:54.748 | INFO     | yolov5_master.train:train:489 - epoch:  2    epochs:  3    loss:  0.547

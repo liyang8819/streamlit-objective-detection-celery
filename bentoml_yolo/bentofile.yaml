@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jul  7 10:38:29 2022
+
+@author: zhufei
+"""
+
+service: "bentoml_service.py:svc"  # 定位服务的约定：<YOUR_SERVICE_PY>:<YOUR_SERVICE_ANNOTATION>
+description: "file: ./README.md"
+labels:
+    owner: Honeywell HCE
+    stage: demo
+include:
+ - "*.py"  # 用于匹配要包含在bento中的文件的格式
+python:
+  packages:
+   - scikit-learn  # bento中将包含的其他的依赖库
+   - pandas
